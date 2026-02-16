@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "jJRB64oM3B0=",
+  "success": true,
+  "projectFilePath": "E:\\Project\\Blur.Avalonia\\Blur.Avalonia\\Blur.Avalonia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahadd\\.nuget\\packages\\avalonia\\11.3.12\\avalonia.11.3.12.nupkg.sha512",
+    "C:\\Users\\ahadd\\.nuget\\packages\\avalonia.buildservices\\11.3.2\\avalonia.buildservices.11.3.2.nupkg.sha512",
+    "C:\\Users\\ahadd\\.nuget\\packages\\avalonia.remote.protocol\\11.3.12\\avalonia.remote.protocol.11.3.12.nupkg.sha512",
+    "C:\\Users\\ahadd\\.nuget\\packages\\avalonia.skia\\11.3.12\\avalonia.skia.11.3.12.nupkg.sha512",
+    "C:\\Users\\ahadd\\.nuget\\packages\\harfbuzzsharp\\8.3.1.1\\harfbuzzsharp.8.3.1.1.nupkg.sha512",
+    "C:\\Users\\ahadd\\.nuget\\packages\\harfbuzzsharp.nativeassets.linux\\8.3.1.1\\harfbuzzsharp.nativeassets.linux.8.3.1.1.nupkg.sha512",
+    "C:\\Users\\ahadd\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\8.3.1.1\\harfbuzzsharp.nativeassets.macos.8.3.1.1.nupkg.sha512",
+    "C:\\Users\\ahadd\\.nuget\\packages\\harfbuzzsharp.nativeassets.webassembly\\8.3.1.1\\harfbuzzsharp.nativeassets.webassembly.8.3.1.1.nupkg.sha512",
+    "C:\\Users\\ahadd\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\8.3.1.1\\harfbuzzsharp.nativeassets.win32.8.3.1.1.nupkg.sha512",
+    "C:\\Users\\ahadd\\.nuget\\packages\\microcom.runtime\\0.11.0\\microcom.runtime.0.11.0.nupkg.sha512",
+    "C:\\Users\\ahadd\\.nuget\\packages\\skiasharp\\3.119.1\\skiasharp.3.119.1.nupkg.sha512",
+    "C:\\Users\\ahadd\\.nuget\\packages\\skiasharp.nativeassets.linux\\2.88.9\\skiasharp.nativeassets.linux.2.88.9.nupkg.sha512",
+    "C:\\Users\\ahadd\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.119.1\\skiasharp.nativeassets.macos.3.119.1.nupkg.sha512",
+    "C:\\Users\\ahadd\\.nuget\\packages\\skiasharp.nativeassets.webassembly\\2.88.9\\skiasharp.nativeassets.webassembly.2.88.9.nupkg.sha512",
+    "C:\\Users\\ahadd\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.119.1\\skiasharp.nativeassets.win32.3.119.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+E:\Project\Blur.Avalonia\Blur.Avalonia\bin\Debug\net10.0\Blur.Avalonia.deps.json
+E:\Project\Blur.Avalonia\Blur.Avalonia\bin\Debug\net10.0\Blur.Avalonia.dll
+E:\Project\Blur.Avalonia\Blur.Avalonia\bin\Debug\net10.0\Blur.Avalonia.pdb
+E:\Project\Blur.Avalonia\Blur.Avalonia\obj\Debug\net10.0\Blur.Avalonia.csproj.AssemblyReference.cache
+E:\Project\Blur.Avalonia\Blur.Avalonia\obj\Debug\net10.0\Avalonia\Resources.Inputs.cache
+E:\Project\Blur.Avalonia\Blur.Avalonia\obj\Debug\net10.0\Blur.Avalonia.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Blur.Avalonia\Blur.Avalonia\obj\Debug\net10.0\Blur.Avalonia.AssemblyInfoInputs.cache
+E:\Project\Blur.Avalonia\Blur.Avalonia\obj\Debug\net10.0\Blur.Avalonia.AssemblyInfo.cs
+E:\Project\Blur.Avalonia\Blur.Avalonia\obj\Debug\net10.0\Blur.Avalonia.csproj.CoreCompileInputs.cache
+E:\Project\Blur.Avalonia\Blur.Avalonia\obj\Debug\net10.0\Blur.Avalonia.dll
+E:\Project\Blur.Avalonia\Blur.Avalonia\obj\Debug\net10.0\refint\Blur.Avalonia.dll
+E:\Project\Blur.Avalonia\Blur.Avalonia\obj\Debug\net10.0\Blur.Avalonia.pdb
+E:\Project\Blur.Avalonia\Blur.Avalonia\obj\Debug\net10.0\ref\Blur.Avalonia.dll
